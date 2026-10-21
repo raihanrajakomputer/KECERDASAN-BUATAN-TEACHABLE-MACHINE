@@ -4,7 +4,7 @@ Proyek computer vision untuk mengenali pose **lima jari** atau **tiga jari** lew
 Model dilatih memakai Teachable Machine dan dijalankan dengan TensorFlow.js langsung di browser.
 
 ## Demo
-https://raihanrajakomputer.github.io/kecerdasanbua/
+[https://raihanrajakomputer.github.io/kecerdasanbua/](https://github.com/raihanrajakomputer/KECERDASAN-BUATAN-TEACHABLE-MACHINE.git)
 
 ## Cara menjalankan
 1. Buka link demo di Chrome atau Edge.
